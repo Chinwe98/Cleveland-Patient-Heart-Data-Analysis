@@ -18,12 +18,6 @@ The dataset comprises heart patient records from four hospitals in Cleveland dur
 - **Pandas**: Used for data manipulation and analysis.
 - **Matplotlib/Seaborn**: Libraries used for creating visualizations.
 
-## Usage
-
-1. Clone the repository.
-2. Install the required libraries.
-3. Run the Jupyter notebook to reproduce the analysis and visualizations.
-
 ## Conclusion
 
 This analysis provides a comprehensive overview of the 1980s Cleveland heart patient data, offering valuable insights through statistical summaries and visualizations.
